@@ -8,7 +8,7 @@ const recipes = [
         name: "Margherita Pizza",
         ingredients: ["tomato", "mozzarella", "basil"],
         description: "A classic Italian pizza with fresh ingredients.",
-        image: "/marg_pizza.jpeg?height=200&width=300",
+        image: "marg_pizza.jpeg?height=200&width=300",
     },
     {
         id: 2,
